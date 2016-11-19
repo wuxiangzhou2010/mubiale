@@ -11,3 +11,6 @@ CTestTestfile.cmake
 *.ko
 *.obj
 *.elf
+
+*~
+*.out
